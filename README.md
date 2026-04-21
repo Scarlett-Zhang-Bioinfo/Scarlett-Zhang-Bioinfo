@@ -18,4 +18,4 @@ I am a Senior Undergraduate at **Shanghai University of Medicine & Health Scienc
 
 ### 📫 How to reach me
 - Email: [scarlettzhang911@gmail.com](mailto:scarlettzhang911@gmail.com)
-- [Download my CV](你的简历PDF链接)
+- [Download my CV](https://github.com/Scarlett-Zhang-Bioinfo/Scarlett-Zhang-Bioinfo/blob/main/CV_Scarlett_Zhang.pdf)
