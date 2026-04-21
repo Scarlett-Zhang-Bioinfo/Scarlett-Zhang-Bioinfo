@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Yuan Yuan (Scarlett) Zhang 👋
 
-<!--
-**Scarlett-Zhang-Bioinfo/Scarlett-Zhang-Bioinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Undergraduate at **Shanghai University of Medicine & Health Sciences**, majoring in Medical Laboratory Science. I am passionate about **Cancer Genomics**, **Tumor Heterogeneity**, and **Single-cell Systems Biology**.
 
-Here are some ideas to get you started:
+### 🧬 Research Focus
+- **Neuroblastoma (NB):** Investigating the role of Cancer-Associated Fibroblasts (CAFs) in the tumor microenvironment using scRNA-seq.
+- **Osteosarcoma:** Mapping cellular trajectories and evolutionary plasticity in pediatric sarcomas.
+- **Dry-Lab Skills:** Proficient in multi-omics integration, trajectory inference, and cell-cell communication analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Computational Toolkit
+- **Languages:** R (Main), Python (Basic), Shell
+- **Bioinfo Tools:** Seurat, Scanpy, Monocle 3, CellChat, CellPhoneDB
+- **Data:** Extensive experience in integrating large-scale public datasets (TARGET, TCGA, GEO)
+
+### 📂 Key Projects
+- **[NB-CAF-Analysis](链接):** R pipeline for integrating 4 public NB datasets and characterizing fibroblast subpopulations.
+- **[Sc-Pipeline-Templates](链接):** My customized scripts for standardized scRNA-seq upstream and downstream processing.
+
+### 📫 How to reach me
+- Email: [scarlettzhang911@gmail.com](mailto:scarlettzhang911@gmail.com)
+- [Download my CV](你的简历PDF链接)
