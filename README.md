@@ -17,5 +17,5 @@ I am a Senior Undergraduate at **Shanghai University of Medicine & Health Scienc
 - **[Sc-Pipeline-Templates](链接):** My customized scripts for standardized scRNA-seq upstream and downstream processing.
 
 ### 📫 How to reach me
-- Email: [scarlettzhang911@gmail.com](mailto:yuanyuan.scarlett.zhang@gmail.com)
+- Email: [yuanyuan.scarlett.zhang@gmail.com](mailto:yuanyuan.scarlett.zhang@gmail.com)
 - [Download my CV](https://github.com/Scarlett-Zhang-Bioinfo/Scarlett-Zhang-Bioinfo/blob/main/CV_Scarlett_Zhang.pdf)
